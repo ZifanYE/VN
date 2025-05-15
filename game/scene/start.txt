@@ -1,0 +1,17 @@
+intro: Shadows of the Protocol: War in the Age of Echoes.;
+changeBg:bg.png; // 改变背景
+Suziki: The hum of the simulation echoes through the sterile room, but the war it represents is anything but clean.;
+; // The character name of the dialogue is still "Suziki"
+Classical poetry fills the air, a stark contrast to the cold precision of the algorithms before me.;
+; // Suziki continues his monologue
+In this digital battlefield, lives are reduced to data points, and decisions are made in microseconds. Yet, the consequences remain disturbingly real, touching lives far beyond this room.;
+intro: In AP society, war is a reflection of our collective failures. | It’s a failure to listen, | A failure to empathize, | A failure to translate discomfort into change.;
+
+Suziki: I am Suziki, a military leader in this age of echoes. But leadership is not just about commands—it's about critique, about listening when the world speaks in whispers.;
+getUserInput:name -title=What is your name -buttonText=OK;
+Suziki: Welcome to the shadows, {name}. Together, we must navigate this world where the invisible consequences of our actions ripple through society.;
+; // Suziki continues his dialogue
+In this space, technology should enable empathy, but often it alienates. Institutions must learn to listen, but often they remain deaf. This is the static war we fight every day.;
+intro: As we embark on this journey, remember: | True change begins with understanding, | And leadership starts with listening.;
+
+Suziki: Let's begin, {name}. The shadows await our light.
