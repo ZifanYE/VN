@@ -1,6 +1,6 @@
 {
-  "name": "欢迎使用WebGAL！",
-  "short_name": "欢迎使用WebGAL！",
+  "name": "Demo！",
+  "short_name": "Demo！",
   "start_url": ".",
   "display": "fullscreen",
   "description": "",

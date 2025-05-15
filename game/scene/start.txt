@@ -1,5 +1,6 @@
 intro: Shadows of the Protocol: War in the Age of Echoes.;
-changeBg:bg.png; // 改变背景
+changeBg:bg1.png; // 改变背景
+miniAvatar:sci-fi-character.jpg;
 Suziki: The hum of the simulation echoes through the sterile room, but the war it represents is anything but clean.;
 ; // The character name of the dialogue is still "Suziki"
 Classical poetry fills the air, a stark contrast to the cold precision of the algorithms before me.;
